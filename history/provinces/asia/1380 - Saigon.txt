@@ -1,3 +1,5 @@
+owner = VTN
+controller = VTN
 
 
 
@@ -7,3 +9,4 @@ life_rating = 30
 	
 	
 }
+add_core = VTN

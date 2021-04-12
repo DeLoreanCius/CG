@@ -1,5 +1,9 @@
+owner = VTN
+controller = VTN
 
 
 
 trade_goods = tobacco
 life_rating = 30
+
+add_core = VTN

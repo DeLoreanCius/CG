@@ -1,5 +1,9 @@
+owner = SIA
+controller = SIA
 
 
 
 trade_goods = fruit
 life_rating = 30
+
+add_core = SIA

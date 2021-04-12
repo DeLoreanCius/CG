@@ -1,5 +1,9 @@
+owner = LUA
+controller = LUA
 
 
 
 trade_goods = tobacco
 life_rating = 30
+
+add_core = LUA

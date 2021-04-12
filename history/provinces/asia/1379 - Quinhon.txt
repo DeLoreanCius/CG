@@ -1,5 +1,9 @@
+owner = VTN
+controller = VTN
 
 
 
 trade_goods = silk
 life_rating = 30
+
+add_core = VTN

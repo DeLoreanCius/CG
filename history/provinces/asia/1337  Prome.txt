@@ -1,3 +1,5 @@
+owner = BUR
+controller = BUR
 
 
 
@@ -7,3 +9,5 @@ life_rating = 30
 	
 	
 }
+
+add_core = BUR

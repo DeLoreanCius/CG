@@ -107,7 +107,15 @@ TIB		= "countries/Tibet.txt"
 KOK		= "countries/Kokand.txt"
 BUK		= "countries/Bukkhara.txt"
 TKM		= "countries/Turkmenistan.txt"
-AFG		="countries/Afghanistan.txt"
+AFG		= "countries/Afghanistan.txt"
+VTN		= "countries/Vietnam.txt"
+CAM		= "countries/Cambodia.txt"
+LUA		= "countries/Laos.txt"
+SIA		= "countries/Siam.txt"
+BUR		= "countries/Burma.txt"
+BHU		= "countries/Bhutan.txt"
+NEP		= "countries/Nepal.txt"
+BNG		= "countries/Bengal.txt"
 
 # Scandinavia
 FIN		= "countries/Finland.txt"
@@ -248,7 +256,7 @@ MAK		="countries/Makran.txt"
 MEW		="countries/Mewar.txt"
 MYS		="countries/Mysore.txt"
 NAG		="countries/Nagpur.txt"
-NEP		="countries/Nepal.txt"
+
 ORI		="countries/Orissa.txt"
 PAN		="countries/Panjab.txt"
 SHI		="countries/Shimla.txt"
@@ -262,14 +270,12 @@ BAL		="countries/Bali.txt"
 BHU		="countries/Bhutan.txt"
 BRU		="countries/Brunei.txt"
 BUR		="countries/Burma.txt"
-CAM		="countries/Cambodia.txt"
 
-DAI		="countries/Dai Viet.txt"
+
 JAV		="countries/Java.txt"
 
-LUA		="countries/Luang Prabang.txt"
 JOH		="countries/Johore.txt"
-SIA		="countries/Siam.txt"
+
 
 
 WIA		="countries/Wiang Chhan.txt"
