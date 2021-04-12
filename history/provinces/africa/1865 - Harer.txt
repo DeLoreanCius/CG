@@ -1,0 +1,9 @@
+owner = ABY
+controller = ABY
+
+
+
+trade_goods = coffee
+life_rating = 30
+
+add_core = ABY

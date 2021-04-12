@@ -1,0 +1,11 @@
+owner = POL
+controller = POL
+
+
+
+
+
+trade_goods = coal
+life_rating = 35
+
+add_core = POL

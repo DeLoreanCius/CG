@@ -1,0 +1,9 @@
+owner = UAE
+controller = UAE
+
+
+
+trade_goods = grain
+life_rating = 35
+
+add_core = UAE

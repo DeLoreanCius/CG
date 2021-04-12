@@ -1,0 +1,16 @@
+owner = MCH
+controller = MCH
+
+
+
+
+trade_goods = coal
+life_rating = 32
+1861.1.1 = {
+	
+	
+	colonial = 1
+	naval_base = 1
+}
+
+add_core = MCH

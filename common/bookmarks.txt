@@ -1,0 +1,8 @@
+bookmark =
+{
+	name = "LPW_NAME"
+	desc = "GC_DESC"
+	date = 2010.8.10
+	cameraX = 2950 
+	cameraY = 1550
+}

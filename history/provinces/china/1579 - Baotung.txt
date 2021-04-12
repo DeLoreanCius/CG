@@ -1,0 +1,10 @@
+owner = CHF
+controller = CHF
+
+
+
+
+trade_goods = fruit
+life_rating = 32
+
+add_core = CHF

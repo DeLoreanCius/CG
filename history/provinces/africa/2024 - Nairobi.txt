@@ -1,0 +1,6 @@
+owner = EKY
+controller = EKY
+trade_goods = grain
+life_rating = 15
+
+add_core = EKY

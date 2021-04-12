@@ -1,0 +1,10 @@
+owner = EEG
+controller = EEG
+
+
+
+
+trade_goods = sulphur
+life_rating = 35
+
+add_core = EEG

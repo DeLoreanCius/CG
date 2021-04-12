@@ -1,0 +1,10 @@
+owner = MCH
+controller = MCH
+
+
+
+
+trade_goods = coal
+life_rating = 32
+
+add_core = MCH

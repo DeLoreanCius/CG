@@ -1,0 +1,16 @@
+owner = FRA
+controller = FRA
+
+
+
+
+trade_goods = grain
+life_rating = 34
+1861.1.1 = {
+	
+	
+	
+	
+	
+}
+add_core = FRA

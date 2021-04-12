@@ -1,0 +1,9 @@
+owner = WEG
+controller = WEG
+
+
+
+trade_goods = fruit
+life_rating = 35
+
+add_core = WEG

@@ -1,0 +1,12 @@
+owner = AUS
+controller = AUS
+
+
+
+
+
+
+trade_goods = fruit
+life_rating = 35
+
+add_core = AUS

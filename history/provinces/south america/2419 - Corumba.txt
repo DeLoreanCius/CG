@@ -1,0 +1,8 @@
+owner = ARH
+controller = ARH
+
+
+trade_goods = tropical_wood
+life_rating = 25
+
+add_core = ARH

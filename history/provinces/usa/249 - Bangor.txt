@@ -1,0 +1,12 @@
+owner = HBE
+controller = HBE
+
+
+
+add_core = CAN
+add_core = NEN
+trade_goods = timber
+life_rating = 35
+1861.1.1 = { railroad = 1 }
+
+add_core = HBE

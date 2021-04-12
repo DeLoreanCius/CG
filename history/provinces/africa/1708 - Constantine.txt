@@ -1,0 +1,10 @@
+owner = FAG
+controller = FAG
+
+trade_goods = iron
+life_rating = 35
+1861.1.1 = {
+
+	colonial = 2
+}
+add_core = FAG

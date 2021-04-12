@@ -1,0 +1,9 @@
+owner = ARF
+controller = ARF
+
+
+
+
+trade_goods = fruit
+life_rating = 301861.1.1 = {		}
+add_core = ARF

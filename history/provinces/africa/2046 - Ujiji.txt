@@ -1,0 +1,6 @@
+owner = PMB
+controller = PMB
+trade_goods = coffee
+life_rating = 15
+
+add_core = PMB

@@ -1,0 +1,17 @@
+owner = HBE
+controller = HBE
+
+
+
+trade_goods = cotton
+life_rating = 35
+
+railroad = 1
+1861.1.1 = {
+
+
+
+}
+1861.1.1 = { railroad = 3 }
+
+add_core = HBE

@@ -1,0 +1,13 @@
+owner = HBE
+controller = HBE
+
+
+
+trade_goods = fruit
+life_rating = 35
+1861.1.1 = {
+	
+	
+	
+}
+add_core = HBE

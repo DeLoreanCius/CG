@@ -1,0 +1,9 @@
+owner = AUS
+controller = AUS
+
+
+
+trade_goods = grain
+life_rating = 35
+
+add_core = AUS

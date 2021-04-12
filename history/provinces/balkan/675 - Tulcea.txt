@@ -1,0 +1,15 @@
+owner = ROM
+controller = ROM
+
+
+
+
+ 
+trade_goods = coal
+life_rating = 35
+
+1861.1.1 = {
+	
+	
+}
+add_core = ROM

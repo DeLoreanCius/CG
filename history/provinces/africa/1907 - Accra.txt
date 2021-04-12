@@ -1,0 +1,12 @@
+owner = FGC
+controller = FGC
+
+colonial = 2
+
+trade_goods = cattle
+life_rating = 15
+1861.1.1 = {
+
+	colonial = 2
+}
+add_core = FGC

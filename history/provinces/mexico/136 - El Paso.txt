@@ -1,0 +1,8 @@
+owner = HBE
+controller = HBE
+
+
+add_core = TEX
+trade_goods = cattle
+life_rating = 351861.1.1 = {			add_core = CSA}
+add_core = HBE

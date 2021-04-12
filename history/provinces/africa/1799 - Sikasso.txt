@@ -1,0 +1,9 @@
+owner = FBF
+controller = FBF
+
+
+trade_goods = cotton
+life_rating = 15
+
+
+add_core = FBF

@@ -1,0 +1,8 @@
+owner = FGC
+controller = FGC
+
+
+trade_goods = fruit
+life_rating = 30
+colonial = 2
+add_core = FGC

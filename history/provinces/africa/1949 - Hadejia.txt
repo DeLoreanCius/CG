@@ -1,0 +1,9 @@
+owner = SOK
+controller = SOK
+
+
+
+trade_goods = coal
+life_rating = 35
+
+add_core = SOK

@@ -1,0 +1,11 @@
+owner = CHF
+controller = CHF
+
+
+trade_goods = iron
+life_rating = 32
+
+
+
+
+add_core = CHF

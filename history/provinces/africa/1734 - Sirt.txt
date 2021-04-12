@@ -1,0 +1,7 @@
+owner = FLY
+controller = FLY
+
+trade_goods = wool
+life_rating = 35
+
+add_core = FLY

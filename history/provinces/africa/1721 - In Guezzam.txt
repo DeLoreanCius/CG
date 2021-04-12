@@ -1,0 +1,6 @@
+owner = FAG
+controller = FAG
+trade_goods = grain
+life_rating = 10
+
+add_core = FAG

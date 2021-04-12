@@ -1,0 +1,10 @@
+owner = HVR
+controller = HVR
+
+
+
+trade_goods = wool
+life_rating = 40
+
+
+add_core = HVR

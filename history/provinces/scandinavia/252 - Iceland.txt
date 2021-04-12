@@ -1,0 +1,12 @@
+owner = ARE
+controller = ARE
+
+
+
+
+
+trade_goods = fish
+life_rating = 35
+colonial = 2
+
+add_core = ARE

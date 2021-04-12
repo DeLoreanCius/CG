@@ -1,0 +1,9 @@
+owner = HBE
+controller = HBE
+
+
+
+trade_goods = cattle
+life_rating = 35
+
+add_core = HBE

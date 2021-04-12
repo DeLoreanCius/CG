@@ -1,0 +1,9 @@
+owner = AFG
+controller = AFG
+
+
+
+trade_goods = timber
+life_rating = 35
+
+add_core = AFG

@@ -1,0 +1,9 @@
+owner = EEG
+controller = EEG
+
+
+
+trade_goods = fruit
+life_rating = 35
+
+add_core = EEG

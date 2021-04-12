@@ -1,0 +1,9 @@
+owner = GRE
+controller = GRE
+
+
+
+trade_goods = fruit
+life_rating = 35
+
+add_core = GRE

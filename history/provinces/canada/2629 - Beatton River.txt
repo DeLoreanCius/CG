@@ -1,0 +1,15 @@
+owner = HBE
+controller = HBE
+
+
+
+
+trade_goods = timber
+life_rating = 30
+1861.1.1 = {
+	
+	
+	colonial = 2
+}
+
+add_core = HBE

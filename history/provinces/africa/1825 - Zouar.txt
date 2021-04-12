@@ -1,0 +1,6 @@
+owner = FCD
+controller = FCD
+trade_goods = fruit
+life_rating = 10
+
+add_core = FCD

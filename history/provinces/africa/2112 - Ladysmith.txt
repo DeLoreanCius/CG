@@ -1,0 +1,7 @@
+owner = SAF
+controller = SAF
+
+trade_goods = grain
+life_rating = 35
+
+add_core = SAF

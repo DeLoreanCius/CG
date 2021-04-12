@@ -1,0 +1,8 @@
+owner = POM
+controller = POM
+
+
+trade_goods = tobacco
+life_rating = 35
+colonial = 2
+add_core = POM

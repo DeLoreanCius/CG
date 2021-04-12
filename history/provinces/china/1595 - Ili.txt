@@ -1,0 +1,11 @@
+owner = XIN
+controller = XIN
+
+
+trade_goods = sulphur
+life_rating = 32
+
+
+
+
+add_core = XIN

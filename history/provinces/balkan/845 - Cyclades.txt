@@ -1,0 +1,15 @@
+owner = GRE
+controller = GRE
+
+
+
+trade_goods = fish
+life_rating = 35
+1861.1.1 = {
+	state_building = {
+		level = 1
+		building = steamer_shipyard
+		upgrade = yes
+	}
+}
+add_core = GRE

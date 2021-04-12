@@ -1,0 +1,14 @@
+owner = ARF
+controller = ARF
+
+
+
+
+trade_goods = coffee
+life_rating = 30
+1861.1.1 = {
+	
+	
+}
+add_core = ARC
+add_core = ARF

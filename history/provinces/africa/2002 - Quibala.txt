@@ -1,0 +1,6 @@
+owner = POA
+controller = POA
+trade_goods = coffee
+life_rating = 25
+
+add_core = POA

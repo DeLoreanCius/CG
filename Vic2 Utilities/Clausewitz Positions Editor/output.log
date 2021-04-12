@@ -1,0 +1,233 @@
+May 06, 2019 10:29:05 PM posed.PositionsEditor main
+INFO: Java version: 1.8.0_211
+May 06, 2019 10:29:15 PM posed.Text initTextFromFolder
+WARNING: Could not find localization files in C:\Program Files (x86)\Steam\steamapps\common\Victoria 2\mod\MapTest\localisation
+May 06, 2019 10:29:15 PM posed.Map loadData
+INFO: Map file is C:\Program Files (x86)\Steam\steamapps\common\Victoria 2\mod\MapTest\map\default.map
+May 06, 2019 10:29:15 PM posed.PositionsEditorUI load
+INFO: Loading positions from C:\Program Files (x86)\Steam\steamapps\common\Victoria 2\mod\MapTest\map\positions.txt
+May 06, 2019 10:29:15 PM posed.MapPanel createMapImage
+INFO: Reading map from C:\Program Files (x86)\Steam\steamapps\common\Victoria 2\mod\MapTest\map/provinces.bmp
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Did not expect list: railroad_visibility
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Did not expect list: railroad_visibility
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Did not expect list: railroad_visibility
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 255 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 257 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 258 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 259 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 260 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 261 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 262 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 263 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 265 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 273 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 274 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 275 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 280 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 281 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 282 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 284 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 286 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 290 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 296 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 297 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 298 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 299 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 300 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 301 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 302 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 303 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 378 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 387 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 388 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 389 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 390 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 391 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 392 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 398 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 401 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 416 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 417 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 418 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 420 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 421 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 422 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 424 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 435 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Did not expect list: railroad_visibility
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Did not expect list: railroad_visibility
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2570 (land): town
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Did not expect list: railroad_visibility
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Did not expect list: railroad_visibility
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2716 (sea): factory
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2716 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2717 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2724 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2725 (sea): military_construction
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2726 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2733 (sea): building_rotation
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2755 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2761 (sea): building_construction
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2765 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2781 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2782 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2811 (sea): city
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2829 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2843 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2845 (sea): factory
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2852 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2896 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2897 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2903 (sea): building_construction
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2903 (sea): military_construction
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2927 (sea): building_construction
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2933 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2935 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2936 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2938 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2968 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2971 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2980 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2992 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 2993 (sea): factory
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 3001 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 3001 (sea): building_rotation
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 3048 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 3107 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 3127 (sea): building_construction
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 3127 (sea): military_construction
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 3159 (sea): factory
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 3190 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 3219 (sea): spawn_railway_track
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Did not expect list: railroad_visibility
+May 06, 2019 10:29:17 PM posed.PositionsEditorUI validateObject
+WARNING: Unknown object name in 3230 (sea): spawn_railway_track
+May 06, 2019 10:29:22 PM posed.ProvincePanel setImage
+INFO: Province image scale: 20
+May 06, 2019 10:29:40 PM posed.ProvincePanel setImage
+INFO: Province image scale: 1.376
+May 06, 2019 10:30:26 PM posed.PositionsEditorUI provinceListMouseClicked
+INFO: Province 3,250:
+May 06, 2019 10:30:26 PM posed.PositionsEditorUI provinceListMouseClicked
+INFO: Old entry:
+################################################################################
+# Test
+################################################################################
+3250 = { 
+    unit = { x = 4967.000000 y = 1360.000000 } 
+    text_position = { x = 4967.000000 y = 1360.400024 } 
+    text_scale = 3.099999
+    building_construction = { x = 4967.000000 y = 1360.000000 } 
+    military_construction = { x = 4967.100098 y = 1360.699951 } 
+    factory = { x = 4967.100098 y = 1360.000000 } 
+    building_position = { fort = { x = 4967.299805 y = 1360.000000 } } 
+}
+
+May 06, 2019 10:30:26 PM posed.PositionsEditorUI provinceListMouseClicked
+INFO: New entry:
+################################################################################
+# PROV3250
+################################################################################
+3250 = { 
+    text_position = { x = 330.166667 y = 1373.733333 } 
+    text_scale = 25.00000
+    unit = { x = 249.506667 y = 1364.286667 } 
+    city = { x = 322.900000 y = 1332.313333 } 
+    factory = { x = 386.846667 y = 1438.406667 } 
+    building_construction = { x = 455.880000 y = 1481.280000 } 
+    military_construction = { x = 381.033333 y = 1273.453333 } 
+    building_position = { fort = { x = 4967.299805 y = 1360.000000 } } 
+}
+

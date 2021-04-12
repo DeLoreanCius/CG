@@ -1,0 +1,17 @@
+owner = HBE
+controller = HBE
+
+
+
+trade_goods = cotton
+life_rating = 35
+colony = 2
+is_slave = yes
+1861.1.1 = {
+	colony = 0
+
+
+
+
+}
+add_core = HBE

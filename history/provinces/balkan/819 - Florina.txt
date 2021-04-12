@@ -1,0 +1,10 @@
+owner = GRE
+controller = GRE
+
+
+
+
+trade_goods = coal
+life_rating = 35
+
+add_core = GRE

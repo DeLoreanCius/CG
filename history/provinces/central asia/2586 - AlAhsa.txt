@@ -1,0 +1,9 @@
+owner = SAU
+controller = SAU
+
+
+
+trade_goods = grain
+life_rating = 10
+
+add_core = SAU

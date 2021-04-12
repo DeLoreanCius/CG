@@ -1,0 +1,25 @@
+owner = HBE
+controller = HBE
+
+
+
+trade_goods = cotton
+life_rating = 35
+
+party_loyalty = {
+	ideology = conservative
+	loyalty_value = 15
+}
+
+1861.1.1 = {
+	party_loyalty = {
+	ideology = conservative
+	loyalty_value = 20
+}
+
+
+
+}
+1861.1.1 = { railroad = 3 }
+
+add_core = HBE

@@ -1,0 +1,10 @@
+owner = KDS
+controller = KDS
+
+
+
+
+trade_goods = iron
+life_rating = 35
+
+add_core = KDS

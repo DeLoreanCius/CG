@@ -1,0 +1,7 @@
+owner = FGC
+controller = FGC
+
+trade_goods = coffee
+life_rating = 30
+
+add_core = FGC

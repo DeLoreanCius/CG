@@ -1,0 +1,13 @@
+owner = MCH
+controller = MCH
+
+
+
+
+
+
+trade_goods = cattle
+life_rating = 35
+
+
+add_core = MCH

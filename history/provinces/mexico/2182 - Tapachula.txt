@@ -1,0 +1,9 @@
+owner = ARC
+controller = ARC
+
+
+
+trade_goods = cotton
+life_rating = 30
+
+add_core = ARC

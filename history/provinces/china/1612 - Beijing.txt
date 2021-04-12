@@ -1,0 +1,9 @@
+owner = CHF
+controller = CHF
+
+
+
+trade_goods = tea
+life_rating = 32
+fort = 1
+add_core = CHF

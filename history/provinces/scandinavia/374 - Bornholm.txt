@@ -1,0 +1,10 @@
+owner = DEN
+controller = DEN
+
+
+
+
+trade_goods = fish
+life_rating = 35
+
+add_core = DEN

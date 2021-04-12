@@ -1,0 +1,16 @@
+owner = HBE
+controller = HBE
+
+
+
+add_core = NEN
+trade_goods = timber
+life_rating = 35
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
+1861.1.1 = { railroad = 3 }
+
+add_core = HBE
