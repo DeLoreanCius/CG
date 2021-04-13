@@ -1,3 +1,5 @@
+owner = JOD
+controller = JOD
 
 
 
@@ -5,3 +7,4 @@
 trade_goods = cotton
 life_rating = 32
 colonial = 2
+add_core = JOD

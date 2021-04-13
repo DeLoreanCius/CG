@@ -1,5 +1,8 @@
+owner = IDN
+controller = IDN
 
 
 trade_goods = dye
 life_rating = 30
 colonial = 2
+add_core = IDN

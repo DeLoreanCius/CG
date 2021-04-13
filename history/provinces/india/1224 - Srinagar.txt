@@ -1,3 +1,5 @@
+owner = PAN
+controller = PAN
 
 
 
@@ -9,3 +11,5 @@ life_rating = 32
 	
 	
 }
+
+add_core = PAN

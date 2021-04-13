@@ -1,3 +1,5 @@
+owner = ZHI
+controller = ZHI
 
 
 
@@ -9,3 +11,4 @@ life_rating = 32
 	
 	colonial = 2
 }
+add_core = ZHI

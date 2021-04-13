@@ -1,3 +1,5 @@
+owner = ZHI
+controller = ZHI
 
 
 
@@ -5,3 +7,4 @@
 trade_goods = tobacco
 life_rating = 32
 colonial = 2
+add_core = ZHI

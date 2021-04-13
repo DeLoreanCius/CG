@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = COR
+controller = COR
 
 
 
@@ -19,3 +19,4 @@ state_building = {
 1861.1.1 = { railroad = 3 }
 
 add_core = ENG
+add_core = COR

@@ -1,6 +1,9 @@
+owner = IDN
+controller = IDN
 trade_goods = coffee
 life_rating = 15
 	colonial = 2
 	naval_base = 1
 	life_rating = 35
 }
+add_core = IDN

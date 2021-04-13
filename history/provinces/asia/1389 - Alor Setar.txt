@@ -1,6 +1,10 @@
+owner = MLY
+controller = MLY
 
 
 
 
 trade_goods = timber
 life_rating = 30
+
+add_core = MLY

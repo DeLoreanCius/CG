@@ -1,3 +1,7 @@
+owner = IDN
+controller = IDN
 
 trade_goods = fish
 life_rating = 30
+
+add_core = IDN

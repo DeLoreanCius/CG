@@ -1,6 +1,10 @@
+owner = ORI
+controller = ORI
 
 
 
 
 trade_goods = grain
 life_rating = 32
+
+add_core = ORI

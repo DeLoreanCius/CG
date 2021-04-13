@@ -1,5 +1,9 @@
+owner = BAL
+controller = BAL
 
 
 
 trade_goods = wool
 life_rating = 35
+
+add_core = BAL

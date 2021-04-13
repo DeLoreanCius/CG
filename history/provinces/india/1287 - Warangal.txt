@@ -1,6 +1,10 @@
+owner = HYD
+controller = HYD
 
 
 
 
 trade_goods = cotton
 life_rating = 32
+
+add_core = HYD

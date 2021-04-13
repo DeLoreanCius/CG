@@ -1,8 +1,11 @@
-owner = ARA
-controller = ARA
+owner = ARB
+controller = ARB
+
+
 
 
 trade_goods = fish
 life_rating = 35
 colonial = 2
-add_core = ARA
+
+add_core = ARB

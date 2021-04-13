@@ -1,3 +1,5 @@
+owner = ARK
+controller = ARK
 
 
 
@@ -13,3 +15,5 @@ life_rating = 35
 #	building = glass_factory
 #	upgrade = yes
 #}
+
+add_core = ARK

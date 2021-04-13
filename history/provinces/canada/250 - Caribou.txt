@@ -1,5 +1,7 @@
-owner = ARA
-controller = ARA
+owner = ARB
+controller = ARB
+
+
 
 
 
@@ -13,4 +15,5 @@ colonial = 2
 	
 	colonial = 0
 }
-add_core = ARA
+
+add_core = ARB

@@ -1,3 +1,5 @@
+owner = SAR
+controller = SAR
 
 
 
@@ -20,3 +22,4 @@ life_rating = 35
 	
 	
 }
+add_core = SAR

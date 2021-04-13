@@ -1,3 +1,5 @@
+owner = MZI
+controller = MZI
 
 
 
@@ -5,3 +7,5 @@
 trade_goods = tea
 life_rating = 32
 colonial = 1
+
+add_core = MZI

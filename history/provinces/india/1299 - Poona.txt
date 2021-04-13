@@ -1,3 +1,5 @@
+owner = MZI
+controller = MZI
 
 
 
@@ -5,3 +7,5 @@ trade_goods = grain
 life_rating = 32
 colonial = 2
 1861.1.1 = { railroad = 3 }
+
+add_core = MZI
